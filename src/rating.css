@@ -1,0 +1,22 @@
+
+.fa {
+  font-size: 1.5rem; /* Default size for the stars */
+  cursor: pointer;
+  color:yellow;
+}
+@media (max-width: 768px) {
+  .fa {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .fa {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width: 1025px) {
+  .fa {
+    font-size: 2rem;
+  }
+}

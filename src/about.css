@@ -1,0 +1,45 @@
+.about{
+    background-image: url("./assets/background1.jpg");
+    width: 100vw;
+    height: 100vh;
+}
+
+.about-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color:lightgoldenrodyellow;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color:lavender;
+  }
+  .mainbody1{
+    height: 97.5vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  
+  .abouthead {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  
+  .page {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .signature {
+    font-style: italic;
+    text-align: right;
+    color: #888;
+  }
+  h1{
+    margin-left: 7rem;
+
+
+  }
+  
